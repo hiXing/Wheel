@@ -1,0 +1,44 @@
+== Android wheel demo v2.1 ==
+Updated wheel widget: removed wheel label since it is so complicated for maintaining; fixed scrolling isues.
+Updated demo app: removed speed demo; renamed demo app.
+Fixed issues:
+  #12: Disallow scrolling of disabled wheel
+
+== Android wheel demo v2.0 ==
+Updated wheel widget: added custom views for wheel items.
+Updated demo app: added new demos.
+Fixed issues:
+  #6: Display items not always centering vertically
+  #7: Click on number centres it
+
+== Android wheel demo v1.4 ==
+Updated wheel widget: added animation.
+Updated demo app: use animation in Time and Password demos.
+
+== Android wheel demo v1.3.2 ==
+Fixed wheel rendering issue.
+Added cyclic functionality.
+
+== Android wheel demo v1.3.1 ==
+Fixed issues:
+ #1: Does not work on Android 1.5 
+ #2: Wheel is not updated when new adapter is set
+
+Updated Cities demo.
+
+== Android wheel demo v1.3 ==
+
+Updated wheel widget: Added user friendly scrolling; Renamed scrolling listener methods.
+
+== Android wheel demo v1.2 ==
+
+Updated wheel widget: added wheel event listeners.
+Updated demo app: use event listeners in Time and Password demos.
+
+== Android wheel demo v1.1 ==
+
+Updated wheel widget: added adapters.
+Updated demo app: added StringAdapter demo activity, added empty wheel demo activity.
+
+----
+Note that it is still a draft, so there has been published debug version of wheel demo, and app version is not being updated yet.
